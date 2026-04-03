@@ -1,4 +1,3 @@
-import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCards from "../Components/ProjectCards/ProjectCards";
 import Particle from "../Components/Particles/Particle";

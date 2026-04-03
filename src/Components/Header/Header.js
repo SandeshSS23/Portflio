@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import "./header.css";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
@@ -9,7 +8,6 @@ import { Link } from "react-router-dom";
 import { AiFillGithub } from "react-icons/ai";
 
 import {
-  AiFillStar,
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,

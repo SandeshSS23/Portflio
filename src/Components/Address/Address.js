@@ -1,4 +1,3 @@
-import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import "./address.css";
 import call from "../../Assets/contact.svg";
