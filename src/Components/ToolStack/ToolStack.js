@@ -1,20 +1,12 @@
-import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  SiLinux,
-  SiVisualstudiocode,
   SiPostman,
   SiAmazonaws,
-  SiNginx,
-  SiHeroku,
-  SiVercel,
-  SiNetlify,
   SiFirebase,
   SiCss3,
   SiHtml5,
 } from "react-icons/si";
 import { FaAndroid } from "react-icons/fa";
-import { FaDev } from "react-icons/fa";
 function ToolStack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
